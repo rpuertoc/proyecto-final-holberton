@@ -76,3 +76,13 @@ footer {
     gap: 16px; 
     flex-wrap: wrap; 
 }
+
+#fly {
+   width: 50px; 
+   max-height: 50px;
+
+}
+
+.dead {
+    opacity: 0%;
+}
