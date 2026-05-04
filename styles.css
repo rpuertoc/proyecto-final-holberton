@@ -1,0 +1,14 @@
+h1 {
+    color: #79bef0;
+    text-align: center;
+}
+
+
+    
+#nav {
+    float: right;
+    list-style: none;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: bisque;
+}
